@@ -2,8 +2,8 @@
 
 安装方式：
 
-Caddy： bash -c "$(curl -fsSL https://raw.githubusercontent.com/JeannieStudio/jeannie/master/trojan-tls-caddy.sh)"
+Caddy：   bash -c "$(curl -fsSL https://raw.githubusercontent.com/JeannieStudio/jeannie/master/trojan-tls-caddy.sh)"
 
-Nginx:  bash -c "$(curl -fsSL https://raw.githubusercontent.com/JeannieStudio/jeannie/master/trojan-tls-nginx.sh)"
+Nginx:    bash -c "$(curl -fsSL https://raw.githubusercontent.com/JeannieStudio/jeannie/master/trojan-tls-nginx.sh)"
 
-六合一：  bash -c "$(curl -fsSL https://raw.githubusercontent.com/JeannieStudio/all_install/master/SixForOne_install.sh)"
+六合一：   bash -c "$(curl -fsSL https://raw.githubusercontent.com/JeannieStudio/all_install/master/SixForOne_install.sh)"
