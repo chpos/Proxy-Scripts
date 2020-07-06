@@ -4,6 +4,10 @@
 
 #### 安装代码：
 
+* 六合一;
+
+   `bash -c "$(curl -fsSL https://raw.githubusercontent.com/chpos/Proxy-Scripts/Scripts/V2ray/jeanniestudio/six-in-one.sh)"`
+
 * nginx:
 
    `bash -c "$(curl -fsSL https://raw.githubusercontent.com/chpos/Proxy-Scripts/Scripts/V2ray/jeanniestudio/nginx.sh)"`
