@@ -6,4 +6,4 @@
 
 #### 安装方式：
 
-* `wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/chpos/Proxy-Scripts/Scripts/V2ray/wulabing/nginx.sh" && chmod +x nginx.sh && bash nginx.sh`
+* `wget -N --no-check-certificate -q -O nginx.sh "https://raw.githubusercontent.com/chpos/Proxy-Scripts/Scripts/V2ray/wulabing/nginx.sh" && chmod +x nginx.sh && bash nginx.sh`
