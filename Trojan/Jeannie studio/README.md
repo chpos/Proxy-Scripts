@@ -3,8 +3,14 @@
 
 #### 安装方式：
 
-* Caddy：   `bash -c "$(curl -fsSL https://raw.githubusercontent.com/chpos/Proxy-Scripts/Scripts/Trojan/Jeannie%20studio/Caddy.sh)"`
+* Caddy：   
 
-- Nginx：     `bash -c "$(curl -fsSL https://raw.githubusercontent.com/chpos/Proxy-Scripts/Scripts/Trojan/Jeannie%20studio/Nginx.sh)"`
+     `bash -c "$(curl -fsSL https://raw.githubusercontent.com/chpos/Proxy-Scripts/Scripts/Trojan/Jeannie%20studio/Caddy.sh)"`
 
-* 六合一：   `bash -c "$(curl -fsSL https://raw.githubusercontent.com/chpos/Proxy-Scripts/Scripts/Trojan/Jeannie%20studio/six-in-one)"`
+* Nginx：    
+
+     `bash -c "$(curl -fsSL https://raw.githubusercontent.com/chpos/Proxy-Scripts/Scripts/Trojan/Jeannie%20studio/Nginx.sh)"`
+
+* 六合一：  
+
+     `bash -c "$(curl -fsSL https://raw.githubusercontent.com/chpos/Proxy-Scripts/Scripts/Trojan/Jeannie%20studio/six-in-one)"`
