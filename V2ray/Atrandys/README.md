@@ -4,4 +4,4 @@
 
 #### 安装方式：
 
-* `curl -O https://raw.githubusercontent.com/atrandys/v2ray-ws-tls/master/v2ray_ws_tls1.3.sh && chmod +x v2ray_ws_tls1.3.sh && ./v2ray_ws_tls1.3.sh`
+* `curl -O https://raw.githubusercontent.com/chpos/Proxy-Scripts/Scripts/V2ray/Atrandys/Nginx.sh && chmod +x Nginx.sh && ./Nginx.sh`
