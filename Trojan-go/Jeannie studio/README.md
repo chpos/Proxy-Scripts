@@ -4,4 +4,4 @@
 
 #### 安装方式：
 
-* `bash -c "$(curl -fsSL https://raw.githubusercontent.com/JeannieStudio/all_install/master/trojan-go_install.sh)"`
+* `bash -c "$(curl -fsSL https://raw.githubusercontent.com/chpos/Proxy-Scripts/Scripts/Trojan-go/Jeannie%20studio/caddynginx.sh)"`
