@@ -4,4 +4,4 @@
 
 #### 安装代码：
 
-* `bash -c "$(curl -fsSL https://raw.githubusercontent.com/JeannieStudio/jeannie/master/v2ray-tls-nginx.sh)"`
+* `bash -c "$(curl -fsSL https://raw.githubusercontent.com/chpos/Proxy-Scripts/Scripts/V2ray/jeanniestudio/nginx.sh)"`
