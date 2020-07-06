@@ -2,4 +2,4 @@
 
 #### 安装方式：
 
-* `bash <(curl -sL https://raw.githubusercontent.com/phlinhng/v2ray-tcp-tls-web/master/install.sh) && v2script`
+* `bash <(curl -sL https://raw.githubusercontent.com/chpos/Proxy-Scripts/Scripts/Trojan-go/phlinhng/install.sh) && v2script`
