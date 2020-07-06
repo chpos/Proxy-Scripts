@@ -4,4 +4,10 @@
 
 #### 安装代码：
 
-* `bash -c "$(curl -fsSL https://raw.githubusercontent.com/chpos/Proxy-Scripts/Scripts/V2ray/jeanniestudio/nginx.sh)"`
+* nginx:
+
+   `bash -c "$(curl -fsSL https://raw.githubusercontent.com/chpos/Proxy-Scripts/Scripts/V2ray/jeanniestudio/nginx.sh)"`
+
+* caddy:
+
+  `bash -c "$(curl -fsSL https://raw.githubusercontent.com/chpos/Proxy-Scripts/Scripts/V2ray/jeanniestudio/caddy.sh)"`
